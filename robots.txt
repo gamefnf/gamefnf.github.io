@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://gamefnf.github.io/sitemap.xml
